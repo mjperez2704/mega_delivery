@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"AAAAAAAAAAI",
+			"Acción",
+			"adress",
+			"Agregar",
+			"Borrar",
+			"Cancelar",
+			"Cantidad",
+			"Categoria",
+			"Categorias",
+			"Cerrar",
+			"César",
+			"Confirmado",
+			"Descripción",
+			"Deslizar",
+			"Detalles",
+			"Dirección",
+			"discomment",
+			"Editar",
+			"Eliminar",
+			"Entregado",
+			"Estatus",
+			"googleusercontent",
+			"Imagen",
+			"localstorage",
+			"Método",
+			"Nombre",
+			"Notas",
+			"órden",
+			"Ordenes",
+			"pago",
+			"pedido",
+			"Precio",
+			"producto",
+			"reauth",
+			"Rechazado",
+			"Recibo",
+			"Recibos",
+			"Resumen",
+			"sesión",
+			"Teléfono",
+			"Titulo",
+			"Ultimos",
+			"Usuario",
+			"Usuarios"
+		]
+	}
+}
